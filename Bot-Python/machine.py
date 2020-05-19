@@ -6,8 +6,7 @@ from chatterbot import ChatBot
 bot = ChatBot('Test')
 
 # arquivo = open('Legenda.src', 'r')
-conversas = ['Oi', 'Olá', 'Tudo bem?', 'Eu estou bem', 'Qual o seu nome?', 'meu nome é Zeno, e o seu ?',
-             'Ruann', 'legal', 'Fazendo o que ?', 'eu nada, e você? ', 'nada também', 'tedio né', 'um pouco']
+conversas = ['Oi', 'Olá', 'Tudo bem?', 'Eu estou bem', 'Qual o seu nome?', 'meu nome é Zeno, e o seu ?']
 conversa2 = ['Qual sua cor favorita ?', 'preto', 'a minha também', 'Quantos anos você tem ?', '15, 16, 17, 18, 19 20',
              'interesante', 'e você? ', 'sou bem novo']
 
